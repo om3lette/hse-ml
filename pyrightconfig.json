@@ -1,0 +1,8 @@
+{
+  "include": ["wine_app"],
+  "extraPaths": ["wine_app"],
+  "venvPath": ".",
+  "venv": ".venv",
+  "typeCheckingMode": "standard",
+  "pythonVersion": "3.14"
+}
